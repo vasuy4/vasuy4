@@ -5,23 +5,6 @@
 
 <h3 align="center">Senior Backend Engineer | Go & Python</h3>
 
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=vasuy4&show_icons=true&theme=github_dark"
-    alt="Artem's GitHub Stats"
-  />
-</p>
-
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vasuy4&layout=compact&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
-
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
