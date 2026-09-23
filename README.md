@@ -3,4 +3,4 @@
 <h3 align="center">Senior Backend Engineer | Go & Python</h3>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vasuy4" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vasuy4" alt="GitHub Streak" /></a>
